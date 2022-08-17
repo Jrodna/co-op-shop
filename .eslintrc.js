@@ -20,7 +20,7 @@ module.exports = {
     'airbnb-typescript-vue',
     'plugin:prettier/recommended',
   ],
-  ignorePatterns: ['**/types/*.d.ts', '**/dist/**'],
+  ignorePatterns: ['**/types/*.d.ts', '**/dist/**', '*.config.js'],
   rules: {
     // http://eslint.org/docs/rules/
     'max-len': 'off',
