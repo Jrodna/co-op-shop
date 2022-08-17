@@ -9,7 +9,7 @@
     "preview": "nuxt preview"
   },
   "dependencies": {
-    "@mdi/font": "5.9.55",
+    "@mdi/font": "7.0.96",
     "roboto-fontface": "*",
     "trpc-nuxt": "^0.2.5",
     "vuetify": "^3.0.0-beta.8",
