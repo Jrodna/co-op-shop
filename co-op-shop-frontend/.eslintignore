@@ -1,0 +1,6 @@
+.eslintrc.js
+jest.unit.config.js
+jest.contract.config.jscoverage
+dist
+coverage
+.nuxt
