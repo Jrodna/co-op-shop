@@ -15,7 +15,7 @@
     "roboto-fontface": "*",
     "trpc-nuxt": "^0.2.6",
     "vue": "^3.2.37",
-    "vuetify": "^3.0.0-beta.8",
+    "vuetify": "^3.0.0-beta.9",
     "webfontloader": "^1.0.0"
   },
   "devDependencies": {
