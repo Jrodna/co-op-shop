@@ -7,6 +7,6 @@
     "@trpc/react": "^9.27.2",
     "@trpc/server": "^9.27.2",
     "react-query": "3",
-    "trpc-nuxt": "^0.2.7"
+    "trpc-nuxt": "^0.2.8"
   }
 }
