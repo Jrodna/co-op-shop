@@ -21,7 +21,7 @@
   "devDependencies": {
     "eslint-plugin-vue": "^9.4.0",
     "nuxt": "3.0.0-rc.9",
-    "vue-cli-plugin-vuetify": "~2.5.5",
+    "vue-cli-plugin-vuetify": "~2.5.8",
     "webpack-plugin-vuetify": "^2.0.0-alpha.13",
     "@rushstack/eslint-patch": "^1.1.4",
     "@types/jsdom": "^20.0.0",
