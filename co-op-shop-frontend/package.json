@@ -23,7 +23,7 @@
     "nuxt": "3.0.0-rc.9",
     "vue-cli-plugin-vuetify": "~2.5.8",
     "webpack-plugin-vuetify": "^2.0.0-alpha.13",
-    "@rushstack/eslint-patch": "^1.1.4",
+    "@rushstack/eslint-patch": "^1.2.0",
     "@types/jsdom": "^20.0.0",
     "@types/node": "^18.7.18",
     "@vue/eslint-config-prettier": "^7.0.0",
