@@ -1269,10 +1269,10 @@
   resolved "https://registry.yarnpkg.com/@vue/tsconfig/-/tsconfig-0.1.3.tgz#4a61dbd29783d01ddab504276dcf0c2b6988654f"
   integrity sha512-kQVsh8yyWPvHpb8gIc9l/HIDiiVUy1amynLNpCy8p+FoCiZXCo6fQos5/097MmnNZc9AtseDsCrfkhqCrJ8Olg==
 
-"@vuetify/loader-shared@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@vuetify/loader-shared/-/loader-shared-1.6.0.tgz#b595eee4d5867c7ba7efd5248a631cce9a94c72c"
-  integrity sha512-mRvswe5SIecagmKkL1c0UQx5V9ACKLyEGegOOe5vC3ccFH8rMbyI4AVZaAKm/EnGXKirWJ1umL8RQFcGd+C0tw==
+"@vuetify/loader-shared@^1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@vuetify/loader-shared/-/loader-shared-1.7.0.tgz#b3bea7f90795dd8efdb536b192335590d85bffdd"
+  integrity sha512-Db4K67wMhduDsbvdRBYkrYuomti+j0E/1vlz1lnDng5F9LYYBcXa60qypIazVGI6GX/CuY1vshN6XGtGQI4FKg==
   dependencies:
     find-cache-dir "^3.3.2"
     upath "^2.0.1"
@@ -6969,12 +6969,12 @@ webidl-conversions@^7.0.0:
   resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-7.0.0.tgz#256b4e1882be7debbf01d05f0aa2039778ea080a"
   integrity sha512-VwddBukDzu71offAQR975unBIGqfKZpM+8ZX6ySk8nYhVoo5CYaZyzt3YBvYtRtO+aoGlqxPg/B87NGVZ/fu6g==
 
-webpack-plugin-vuetify@^2.0.0-alpha.13:
-  version "2.0.0-alpha.13"
-  resolved "https://registry.yarnpkg.com/webpack-plugin-vuetify/-/webpack-plugin-vuetify-2.0.0-alpha.13.tgz#a1a004bca3348a6720201eeb822c86986c286dcd"
-  integrity sha512-PQv/YEDcgVoPbQU6WivyPlRgyK71i3FjlIi+ggP4H6yLlvrycUvU8HC2k7SU29AXEZ9IQKUn9X/P6B3jJameqg==
+webpack-plugin-vuetify@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/webpack-plugin-vuetify/-/webpack-plugin-vuetify-2.0.0.tgz#93c878eb051c7401e661e15f02194eb72073002f"
+  integrity sha512-GMAlZPLZfuCOtbw480pncEcDtQjB937qZTp4eiTOqOAM81ManquZDsSbSnTgBHmO9ERbgYRJx0TqucXookTGUg==
   dependencies:
-    "@vuetify/loader-shared" "^1.6.0"
+    "@vuetify/loader-shared" "^1.7.0"
     decache "^4.6.0"
     file-loader "^6.2.0"
     find-cache-dir "^3.3.2"
