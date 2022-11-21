@@ -2061,10 +2061,10 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
 
-concurrently@^7.5.0:
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-7.5.0.tgz#4dd432d4634a8251f27ab000c4974e78e3906bd3"
-  integrity sha512-5E3mwiS+i2JYBzr5BpXkFxOnleZTMsG+WnE/dCG4/P+oiVXrbmrBwJ2ozn4SxwB2EZDrKR568X+puVohxz3/Mg==
+concurrently@^7.6.0:
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-7.6.0.tgz#531a6f5f30cf616f355a4afb8f8fcb2bba65a49a"
+  integrity sha512-BKtRgvcJGeZ4XttiDiNcFiRlxoAeZOseqUvyYRUp/Vtd+9p1ULmeoSqGsDA+2ivdeDFpqrJvGvmI+StKfKl5hw==
   dependencies:
     chalk "^4.1.0"
     date-fns "^2.29.1"
@@ -5963,14 +5963,7 @@ run-parallel@^1.1.9:
   dependencies:
     queue-microtask "^1.2.2"
 
-rxjs@^7.0.0, rxjs@^7.5.5:
-  version "7.5.6"
-  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.5.6.tgz#0446577557862afd6903517ce7cae79ecb9662bc"
-  integrity sha512-dnyv2/YsXhnm461G+R/Pe5bWP41Nm6LBXEYWI6eiFP4fiwx6WRI/CD0zbdVAudd9xwLEF2IDcKXLHit0FYjUzw==
-  dependencies:
-    tslib "^2.1.0"
-
-rxjs@^7.5.7:
+rxjs@^7.0.0, rxjs@^7.5.5, rxjs@^7.5.7:
   version "7.5.7"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.5.7.tgz#2ec0d57fdc89ece220d2e702730ae8f1e49def39"
   integrity sha512-z9MzKh/UcOqB3i20H6rtrlaE/CgjLOvheWK/9ILrbhROGTweAi1BaFsTT9FbwZi5Trr1qNRs+MXkhmR06awzQA==

@@ -15,7 +15,7 @@
     "@trpc/next": "^9.27.4",
     "@trpc/react": "^9.27.4",
     "@trpc/server": "^9.27.4",
-    "concurrently": "^7.5.0",
+    "concurrently": "^7.6.0",
     "react-query": "3"
   },
   "devDependencies": {
