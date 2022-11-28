@@ -13,7 +13,7 @@
   "dependencies": {
     "@mdi/font": "7.0.96",
     "roboto-fontface": "*",
-    "trpc-nuxt": "^0.4.2",
+    "trpc-nuxt": "^0.4.3",
     "vue": "^3.2.45",
     "vuetify": "^3.0.1",
     "webfontloader": "^1.0.0"

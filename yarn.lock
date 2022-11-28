@@ -6394,10 +6394,10 @@ tree-kill@^1.2.2:
   resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
   integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
-trpc-nuxt@^0.4.2:
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/trpc-nuxt/-/trpc-nuxt-0.4.2.tgz#51f4bed7829f556f83d77d0ee062ad9c139f8961"
-  integrity sha512-OtZchKmKJf/VJ+nomnkU9NxolPIa2/oY+v/y5ZsLOMDPLTsrhs3mi39+E9aIICnfNMc6u1NYn7wPno70OgqGBA==
+trpc-nuxt@^0.4.3:
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/trpc-nuxt/-/trpc-nuxt-0.4.3.tgz#a6c6e5732f5f0aed8d138d0322c2a74d08a1b56a"
+  integrity sha512-rLP//Hu1wtSlRduHIgw8OiakdV3Z0CjQOzmzRaT1SSrmm4EDURMCNWXbMqRlwDtvYlXVsQGzjNReHSd4v4dvsQ==
   dependencies:
     h3 "^1.0.1"
     nanoid "^4.0.0"
