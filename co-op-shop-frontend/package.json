@@ -19,7 +19,7 @@
     "webfontloader": "^1.0.0"
   },
   "devDependencies": {
-    "eslint-plugin-vue": "^9.7.0",
+    "eslint-plugin-vue": "^9.8.0",
     "nuxt": "3.0.0",
     "vue-cli-plugin-vuetify": "~2.5.8",
     "webpack-plugin-vuetify": "^2.0.0",
