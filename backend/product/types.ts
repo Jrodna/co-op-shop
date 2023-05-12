@@ -1,3 +1,4 @@
+import { WithId } from "../utils/types";
 
 export type Product = {
   id: string
@@ -14,3 +15,5 @@ export type ProposedProduct = {
   brand?: string;
   defaultUnit?: string
 }
+
+export type ProposedProductUpdate = ProposedProduct & WithId
