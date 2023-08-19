@@ -10,6 +10,7 @@
     "aws-sdk": "^2.1376.0",
     "dynamodb-toolbox": "^0.8.5",
     "react-query": "3",
-    "trpc-nuxt": "^0.4.3"
+    "trpc-nuxt": "^0.4.3",
+    "uuidv4": "^6.2.13"
   }
 }
